@@ -1,5 +1,5 @@
 librarys required : Tensorflow,Pandas and Numpy
->> The objictive of this project is to identifie the crop map of given area with the help of Remote sensing data.
+>> The objictive of this project is to identifies the crop map of given area with the help of Remote sensing data.
 >> Landsat8 OLI Optical Remote sensing data was used in this project.
 >> In the First step the Training Data sets are collected from known Pixel locations of diffrent crops.
 >> crops are Paddy,Sugarcane,Chillies,Redgram,Cotton and Jowar.
